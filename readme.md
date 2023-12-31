@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm mahammed ebraheem</h1>
 <h3 align="center">a professional flutter and nodeJs developer</h3>
 
-- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at [https://mahamed-ebraheem.sd](https://mahamed-ebraheem.sd)
 
